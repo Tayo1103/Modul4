@@ -47,7 +47,7 @@
                 @endif
 
                 <div class="flex justify-between items-center mt-4 relative z-10">
-                    <h2 class="text-xl text-justify font-semibold text-gray-900">
+                    <h2 class="text-xl font-semibold text-gray-900 pr-4">
                         {{ $article->title }}
                     </h2>
                     <div class="flex space-x-4">
